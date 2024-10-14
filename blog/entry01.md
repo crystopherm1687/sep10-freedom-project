@@ -10,7 +10,7 @@
 
 <h2>Skills</h2>
 
-<p>Some of the skills I managed to gain was <h5>planning out my next steps</h5> and <h5>time management.</h5></p>
+<p>Some of the skills I managed to gain was planning out my next steps and time management.</p>
 
 <h4>Planning out my next steps</h4>
 <p>while I am doing work i sometimes like to think ahead of the current task and figure out what could happen if i do this or that which helps me realize tasks faster and i can suddenly just feel more creative. So in order to be ready I sometimes think about the steps needed to the task by using my notes app on my computer or phone which has been helped to finish assignments and catch up with school. Since certain tasks limit me from going ahead, I can just figure out what to by doing other tasks or assignments from school to spend my time efficently making my mind feel relaxed and ready. </p>
