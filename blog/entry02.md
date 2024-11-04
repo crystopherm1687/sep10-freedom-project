@@ -1,7 +1,7 @@
 # Entry 2
-##### X/X/XX
+##### 10/4/24
 
-Text
+<h2>content</h2>
 
 [Previous](entry01.md) | [Next](entry03.md)
 
