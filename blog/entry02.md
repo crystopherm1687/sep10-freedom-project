@@ -13,10 +13,13 @@ They also have AMS crews that use the vectorscope and histogram to test and moni
 
 How you found it: What searches did you do? How did you have to revise your search(es)?
 [you’re telling a story about what you’ve been doing since writing Blog 1]
-<p> text</p>
-Sources
+<p>Since I was researching specific aspects of technology some of the first google searches were What hardware and software exists in volleyball? leading me to some websites, apps or articles but I was looking more for websites and apps that had been developed to help create or review information just from playing volleyball. Although some apps were great I found most of them to not be helpful so i switched to the image tab of google and from there mutiple sources of infomation, pictures and different websites were present. Other search results included what technology do professional volleyball games use and what apps have been produced for volleyball. One of these results led me to an article about camera equipemnt with screens like they going to film a movie but with a smaller set up so it wouldn't interfere with the game itself. All of this technology developed makes some wonder how we are able to use this equipment but there is a whole lot information you will need to understand in my Engineering design process explantion. 
+</p>
+
+
 <h2>EDP</h2>
 <!-- 1 paragraph is fine-->
+The Engineering design process as some call it is a method used to develop innovations, products, objects or techonlogy that can be applied in certain parts of our lives. Some examples include your phone, computer, desk, home, door, cameras, clocks, tv's, and so much more. This process can be broken down into mutiple steps and as for me I am currently on step 2 which is researching my topic and so far i feel comfortable with the amount of techonlogy explored in the field of volleyball. Considering how big of an impact technology has on the world it is important to understand how it works so i can later use or implement it in the future.
 
 
 
