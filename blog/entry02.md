@@ -29,6 +29,8 @@ The Engineering design process as some call it is a method used to develop innov
 <h3>Reading Specific words</h3>
 <p> During my time finding some infomation I found out that some terms on certain articles were confusing so I decided to google their meanings and inspected the vocab. Some of these terms included AMS, streamlining, meticulously and seamless which were hard to identify their significance at first. After googling their meanings as part of my first skill it was thrilling to gain some knowledge of differnt words because I can use them and the websites along with the articles made more sense. Since knowing information was part of my project remembering the words could work out for me as it expands my choice of words to get people in my topic.</p>
 
+<h3>summary</h3>
+<p>Since we are almost done with researching parts of our project it would mean we are near the next stage of the engineering design process and i feel prepared to encounter new challenges to develop my project into a very good topic.</p>
 <!-- 2 paragraphs minimum-->
 
 [Previous](entry01.md) | [Next](entry03.md)
