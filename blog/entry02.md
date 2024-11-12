@@ -24,10 +24,10 @@ The Engineering design process as some call it is a method used to develop innov
 
 <h2>Skills</h2>
 <h3>Googling Information</h3>
-<p>Because I spent a lot of time researching about **volleyball** my skill of googling really helped me to develop different ways to search infomation on the internet. For example when I was attempting to find intriguing websites there just wasn't any so I went to google images and there were more sources to be found that could be used for my project. Another example included the use of keywords like apps, websites or technology. </p>
+<p>Because I spent a lot of time researching about **volleyball** my skill of googling really helped me to develop different ways to search infomation on the internet. For example when I was attempting to find intriguing websites there just wasn't any so I went to google images and there were more sources to be found that could be used for my project. Another example included the use of keywords like apps, websites or technology allowing an expansion of infomative websites. Finding mutiple sources for volleyball made it seem like a challenge but after nagivating for a bit it became manageable and a good experience. </p>
 
 <h3>Reading Specific words</h3>
-<p> During my time finding some infomation I found out that some terms on certain articles were confusing so I decided to google their meanings and inspected the vocab. Some of these terms included AMS, streamlining, meticulously and seamless which were hard to identify their significance at first.</p>
+<p> During my time finding some infomation I found out that some terms on certain articles were confusing so I decided to google their meanings and inspected the vocab. Some of these terms included AMS, streamlining, meticulously and seamless which were hard to identify their significance at first. After googling their meanings as part of my first skill it was thrilling to gain some knowledge of differnt words because I can use them and the websites along with the articles made more sense. Since knowing information was part of my project remembering the words could work out for me as it expands my choice of words to get people in my topic.</p>
 
 <!-- 2 paragraphs minimum-->
 
