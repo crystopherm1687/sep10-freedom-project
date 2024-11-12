@@ -1,4 +1,4 @@
-# Entry 2:How is technology incorporated in volleyball
+# Entry 2: How is technology incorporated in volleyball
 ##### 11/11/24
 
 <h2>Content</h2>
