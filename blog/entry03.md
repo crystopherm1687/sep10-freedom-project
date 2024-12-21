@@ -9,10 +9,10 @@ For my freedom project content i organized it into categories of use that i dete
 
 ## Sources 
 
-<a href=":https://kinexon-sports.com/products/perform-imu"> </a>
-<a href="https://volleystation.com/"> </a>
-<a href="https://www.sporteasy.net/en/teams/sports/volleyball/"> </a>
-<a href="https://www.sportsvideo.org/2023/05/08/italian-womens-professional-volleyball-league-broadcast-powered-by-blackmagic-design/"> </a>
+<a> "https://kinexon-sports.com/products/perform-imu" </a>
+<a>"https://volleystation.com/" </a>
+<a>"https://www.sporteasy.net/en/teams/sports/volleyball/" </a>
+<a>"https://www.sportsvideo.org/2023/05/08/italian-womens-professional-volleyball-league-broadcast-powered-by-blackmagic-design/" </a>
 
 ## EDP
 
