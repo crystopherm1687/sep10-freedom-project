@@ -9,7 +9,20 @@ For my freedom project content i organized it into categories of use that i dete
 
 ## Sources 
 
-<a href=":https://kinexon-sports.com/products/perform-imu> </a>
+<a href=":https://kinexon-sports.com/products/perform-imu"> </a>
+<a href="https://volleystation.com/"> </a>
+<a href="https://www.sporteasy.net/en/teams/sports/volleyball/"> </a>
+<a href="https://www.sportsvideo.org/2023/05/08/italian-womens-professional-volleyball-league-broadcast-powered-by-blackmagic-design/"> </a>
+
+## EDP
+
+In the progress of the Engineering design process I have begun to develop a solution for a problem and think about ways to help people in the area of volleyball for the future. Basically i am developing ideas for a design for a screen that has everything and is accessible anywhere which would help people a lot since some people have problems like eye vision or a disability. Of course it is not my only idea but i will need a backup plan in case my idea doesnt work out as intended.
+
+## Skills 
+
+Some of the skills I used was organzing myself and manging my time effectively. in terms of organzing it mean that i'm taking the time to fix things like ny notes or put my work in the correct folders so that looking for worksheets isn't such a hard time and i lose nothing important that i need for class. For my notes i found myself putting them in a unique way for my own understanding and give others a simple idea as to what i'm talking about.
+
+As for manging my time i made sure to finish my work on time as teachers push due dates and it becomes overwhelming but once you get the hang of it you find youself doing task easier and it just becomes a simple thing. Since it takes less time to do work i find myself doing other assignments that i can complete and everything ties in well to my school life.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
