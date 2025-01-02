@@ -16,7 +16,7 @@ For my freedom project content i organized it into categories of use that i dete
 
 ## EDP
 
-In the progress of the Engineering design process I have begun to develop a solution for a problem and think about ways to help people in the area of volleyball for the future. Basically i am developing ideas for a design for a screen that has everything and is accessible anywhere which would help people a lot since some people have problems like eye vision or a disability. Of course it is not my only idea but i will need a backup plan in case my idea doesnt work out as intended.
+In the progress of the Engineering design process I have begun to develop a solution for a problem and thought about ways to help people in the area of volleyball for the future. Basically i am developing ideas for a design for a screen that has everything and is accessible anywhere which would help people a lot since some people have problems like eye vision or a disability. Of course it is not my only idea but i will need a backup plan in case my idea doesnt work out as intended. Also while going across these solutions someone told me about adding goggles to the players so it could be easier to visualize their movements and perspective from the audience. With this creative view on my invention i could probably improve some things so as to give people a better experience with easy to understand details.
 
 ## Skills 
 
