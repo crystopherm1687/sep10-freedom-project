@@ -1,13 +1,16 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **aframe**
 
 ---
 
-### X/X/XX:
-* Text
+### 3/2/25:
+* Position, height, width, radius should be changed in objects placed in the scene.
+* align the numbers carefully to match their respective places.
+* volleyball net succesfully created.
+* Work on fixing the ground and way the balls look as well as the outside.
 
-### X/X/XX:
+### 3/6/25:
 * Text
 
 
