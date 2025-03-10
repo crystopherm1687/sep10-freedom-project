@@ -9,8 +9,9 @@
 * align the numbers carefully to match their respective places.
 * volleyball net succesfully created.
 * Work on fixing the ground and way the balls look as well as the outside.
+* Start designing my invention to see what it looks like.
 
-### 3/6/25:
+### X/X/X:
 * Text
 
 
