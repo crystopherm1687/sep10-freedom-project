@@ -44,6 +44,15 @@
 ```
 *animating the objects could also help better describe a scene when played in action.
 *skybox or image can be added so that the background isn't plain
+
+
+
+### 3/24/25
+
+* Basic sky pattern could look like this
+```
+<a-sky src="path/to/your/skybox-image.jpg"></a-sky>
+```
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
