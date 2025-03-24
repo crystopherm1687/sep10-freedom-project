@@ -56,6 +56,10 @@
 
 *finally put a picture on the objects
 <img src="bally.jpg">
+
+* Now animated objects in the end result
+
+  <img src="balls.jpg">
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
