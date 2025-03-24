@@ -20,8 +20,31 @@
 
 *Try to use these ideas once I use Aframe again.
 
+### 3/23/25
 
-<!-- 
+* the object once clicked upon can change color if code is set to do so.
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>A-Frame Interactivity Example</title>
+    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-box position="0 1 -3" color="#4CC3D9"
+             event-set__click="_event: click; color: #EF2D56">
+      </a-box>
+      <a-camera></a-camera>
+    </a-scene>
+  </body>
+</html>
+```
+*animating the objects could also help better describe a scene when played in action.
+*skybox or image can be added so that the background isn't plain
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
