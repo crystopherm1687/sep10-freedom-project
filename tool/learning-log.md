@@ -54,7 +54,7 @@
 <a-sky src="path/to/your/skybox-image.jpg"></a-sky>
 ```
 
-*finally put a picture on the objects
+* finally put a picture on the objects
 <img src="bally.jpg">
 
 * Now animated objects in the end result
