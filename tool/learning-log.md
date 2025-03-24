@@ -15,10 +15,10 @@
 * This type of code can used to move objects in the scene so now there are more chances that the balls can move using raycasting.`<a-entity camera raycaster="objects: .clickable" cursor="fuse: true; maxDistance: 20; fuseTimeout: 1500">
 </a-entity>`
 
-*More ideas of moveable objects in scenes could work as some people could visualize balls moving when there is a set being played.`<a-box position="0 1 -5" animation="property: rotation; to: 0 360 0; dur: 2000; loop: true"></a-box>
+* More ideas of moveable objects in scenes could work as some people could visualize balls moving when there is a set being played.`<a-box position="0 1 -5" animation="property: rotation; to: 0 360 0; dur: 2000; loop: true"></a-box>
 `
 
-*Try to use these ideas once I use Aframe again.
+* Try to use these ideas once I use Aframe again.
 
 ### 3/23/25
 
@@ -42,8 +42,8 @@
   </body>
 </html>
 ```
-*animating the objects could also help better describe a scene when played in action.
-*skybox or image can be added so that the background isn't plain
+* animating the objects could also help better describe a scene when played in action.
+* skybox or image can be added so that the background isn't plain
 
 
 
@@ -53,6 +53,9 @@
 ```
 <a-sky src="path/to/your/skybox-image.jpg"></a-sky>
 ```
+
+*finally put a picture on the objects
+<img src="bally.jpg">
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
