@@ -22,6 +22,11 @@
         mobile-scale="1.5 1.5 1.5"
         desktop-scale="1 1 1"
       ></a-entity>
+      <a-scene>
+        <a-entity camera look-controls="pointerLockEnabled: true" position="0 1.6 0"></a-entity>
+        <a-entity id="teleport" teleport-controls="button: trigger;"></a-entity>
+      </a-scene>
+
 
         <a-scene>
             <a-box position="-8 0.5 -3" rotation="0 10 0" height="5.5" color="#00FFFF"></a-box>
