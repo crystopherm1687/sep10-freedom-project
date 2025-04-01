@@ -60,6 +60,33 @@
 * Now animated objects in the end result
 
   <img src="balls.jpg">
+
+### 3/31/25
+
+*Lighting effects can make peoplehave different opinions so we need to change it a bit.
+```
+  <a-light type="ambient" intensity="0.5"></a-light>
+<a-light type="directional" intensity="0.8" position="1 3 1"></a-light>
+```
+* support for other devices can be useful if people decide to view my project from other devices.
+
+  ```
+  <a-entity
+  geometry="primitive: box; width: 3; height: 3; depth: 3"
+  position="0 2 -5"
+  scale="1 1 1"
+  mobile-scale="1.5 1.5 1.5"
+  desktop-scale="1 1 1"
+  ></a-entity>
+```
+* in case people want to look around but can't figure out the angle of camera we can use teleports.
+  ```
+  <a-scene>
+  <a-entity camera look-controls="pointerLockEnabled: true" position="0 1.6 0"></a-entity>
+  <a-entity id="teleport" teleport-controls="button: trigger;"></a-entity>
+  </a-scene>
+  ```
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
