@@ -78,7 +78,7 @@
   mobile-scale="1.5 1.5 1.5"
   desktop-scale="1 1 1"
   ></a-entity>
-```
+  ```
 * in case people want to look around but can't figure out the angle of camera we can use teleports.
   ```
   <a-scene>
