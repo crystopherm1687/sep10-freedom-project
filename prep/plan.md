@@ -15,7 +15,10 @@
 * `#008000`green
 
 ## Fonts
-* [Text](URL)
+* [Roboto](https://fonts.google.com/specimen/Roboto)
+* [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+* [Montserrat](https://fonts.google.com/specimen/Montserrat)
+* [Raleway](https://fonts.google.com/specimen/Raleway)
 
 ## Timeline
 
