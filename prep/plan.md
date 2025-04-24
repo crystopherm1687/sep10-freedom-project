@@ -21,16 +21,19 @@
 * [Raleway](https://fonts.google.com/specimen/Raleway)
 
 ## Timeline
-
+* create website design before 4/30(weekend)
+* Due Monday 5/5.
+* Add one commit each day.
 #### MVP
 
-* Task/Timeline
+* Convert to a functional website(images, text, aframe, color, links).
+  
 
 ---
 
 #### Beyond MVP
 
-* Task
+* Add more animations.
 
 
 
