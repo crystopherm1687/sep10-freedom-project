@@ -1,0 +1,24 @@
+https://fonts.google.com/specimen/Roboto
+
+h1 {
+    font-size: clamp(1.8rem, calc(7vw, + 1rem), 5rem)
+}
+p {
+     text-size:1.3em;
+      font-family: Roboto;
+}
+.section1 {
+    Background-color:#0096FF;
+    padding: min(5em, 10%);
+    margin: 1em;
+    height: 10em;
+    box-sizing: border-box;
+    border-radius:1em;
+}
+img {
+    height:auto;
+    max-width:100%;
+    aspect-ratio:16/9;
+    object-fit:cover;
+    background: green;
+}
