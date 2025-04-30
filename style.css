@@ -1,7 +1,10 @@
 https://fonts.google.com/specimen/Roboto
+https://fonts.google.com/specimen/Open+Sans
 
 h1 {
     font-size: clamp(1.8rem, calc(7vw, + 1rem), 5rem)
+    padding: 2rem;
+    margin: 4rem;
 }
 p {
      text-size:1.3em;
@@ -21,4 +24,11 @@ img {
     aspect-ratio:16/9;
     object-fit:cover;
     background: green;
+}
+.font {
+    font-size: 1.5em;
+    font-family:Open-sans;
+}
+.section2 {
+    
 }
