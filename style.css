@@ -21,7 +21,6 @@ p {
 img {
     height:auto;
     max-width:100%;
-    aspect-ratio:1/1;
     object-fit:contain;
     background: green;
     width:600px;
@@ -36,9 +35,6 @@ img {
     color: yellow;
 }
 .changeimg {
-    width:600px;
+    width:1000px;
     height:auto;
-    aspect-ratio:1/1;
-    object-fit:contain;
-    background: yellow
 }
