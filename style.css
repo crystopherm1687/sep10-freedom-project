@@ -37,12 +37,12 @@ p {
     box-sizing: border-box;
     border-radius:1em;
 }
-.img1 {
+.changeimg1 {
     height:auto;
     max-width:100%;
     object-fit:contain;
     background: green;
-    width:600px;
+    width:500px;
 }
 .font {
     font-size: 1.5em;
