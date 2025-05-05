@@ -68,3 +68,8 @@ p {
 body{
     background: #FD5E53;
 }
+.imgcaro {
+    object-fit:cover;
+    height:80%;
+    width:80%;
+}
