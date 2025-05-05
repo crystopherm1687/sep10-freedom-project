@@ -9,6 +9,10 @@ h1 {
 
 
 }
+a-scene {
+    height: 300px;
+    width: 600px;
+  }
 .more {
     margin-left: 15em;
 }
