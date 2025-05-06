@@ -46,8 +46,8 @@
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 |Benson|I like that the website is very functional with the automatic carocel.|I think that what you should improve on is the positioning of the carocel and making the aframe design more extended horizonatlly.
-|   |   |
-|   |   |
+| Edward  | I really like your volleyball simulation in aframe. I also like how you add it so that the text changes after clicking one of the tabs in the intro/conetxt/overview. I like how you made the heading words in the color scheme of a volleyball. | I think picking a more constant color scheme would make it look better because it seems like the color scheme is all over the place.
+| Alialrida  |  I like how the navbar would include the pargarphs under each title and I also like how the world volley ball has three different colors. |I think however the volleyball holigrapch screen is too narrow and needs more widening with it going along with website when it strecthes.
 |   |   |
 |   |   |
 |   |   |
