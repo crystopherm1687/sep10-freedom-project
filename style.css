@@ -6,9 +6,9 @@ https://fonts.google.com/specimen/Montserrat
 h1 {
     font-size: clamp(1.8rem, calc(7vw, + 1rem), 5rem);
     font-family: Raleway;
-
-
-
+}
+.imgform {
+    margin-left:10em;
 }
 .aframebox {
     height: 300px;
