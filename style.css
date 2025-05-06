@@ -14,6 +14,12 @@ h1 {
     height: 300px;
     width: 600px;
   }
+.button {
+color:black;
+}
+.button:hover {
+color:white;
+}
 .more {
     margin-left: 15em;
 }
