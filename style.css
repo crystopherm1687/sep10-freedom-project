@@ -79,7 +79,7 @@ body{
 .imgcaro {
     object-fit:cover;
     height:100%;
-    width:80%;
+    width:200px;
     aspect-ratio:1/1;
 }
 .back {
@@ -97,3 +97,4 @@ h2 {
 .back2 {
     color:white;
 }
+
