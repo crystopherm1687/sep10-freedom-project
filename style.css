@@ -11,8 +11,9 @@ h1 {
     margin-left:10em;
 }
 .aframebox {
-    height: 80em;
-    width: 10em;
+    height: 400px;
+    width: 100%;
+    margin: 50px;
   }
 .button {
 color:black;
