@@ -42,15 +42,14 @@
 
 
 
-<!-- DO NOT USE THIS YET
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|   |   |
+|Benson|I like that the website is very functional with the automatic carocel.|I think that what you should improve on is the positioning of the carocel and making the aframe design more extended horizonatlly.
 |   |   |
 |   |   |
 |   |   |
 |   |   |
 |   |   |
 
--->
+
