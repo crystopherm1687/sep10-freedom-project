@@ -73,6 +73,7 @@ body{
     object-fit:cover;
     height:100%;
     width:80%;
+    aspect-ratio:1/1;
 }
 .back {
     background:blue;
