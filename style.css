@@ -1,6 +1,7 @@
 https://fonts.google.com/specimen/Roboto
 https://fonts.google.com/specimen/Open+Sans
 https://fonts.google.com/specimen/Raleway
+https://fonts.google.com/specimen/Montserrat
 
 h1 {
     font-size: clamp(1.8rem, calc(7vw, + 1rem), 5rem);
@@ -46,7 +47,7 @@ p {
 }
 .font {
     font-size: 1.5em;
-    font-family:Open-sans;
+    font-family:Open+Sans;
 }
 .section2 {
     height: auto;
@@ -54,8 +55,8 @@ p {
     color: yellow;
 }
 .changeimg {
-    width:1000px;
-    margin-left:4em;
+    width:800px;
+    margin-left:5em;
 }
 .img2{
     padding: 2rem;
@@ -70,6 +71,21 @@ body{
 }
 .imgcaro {
     object-fit:cover;
-    height:80%;
+    height:100%;
     width:80%;
+}
+.back {
+    background:blue;
+}
+h2 {
+    margin-left: 5em;
+    font-size: 2em;
+    font-family:Raleway;
+    color:white;
+}
+.back {
+    color:yellow;
+}
+.back2 {
+    color:green
 }
