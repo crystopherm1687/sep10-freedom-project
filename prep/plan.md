@@ -5,7 +5,7 @@
 * [Desktop](https://wireframe.cc/7Tcmvp)
 
 ## Colors
-* `#FD5E53`sunset 
+* `#FD5E53`sunset
 * `#0096FF`bright blue
 * `#0000FF`blue
 * `#FFFF00`yellow
@@ -13,6 +13,7 @@
 * `#FF0000`red
 * `#000000`black
 * `#008000`green
+* `#8a00c2`purple
 
 ## Fonts
 * [Roboto](https://fonts.google.com/specimen/Roboto)
@@ -27,7 +28,7 @@
 #### MVP
 
 * Convert to a functional website(images, text, aframe, color, links).
-  
+
 
 ---
 
