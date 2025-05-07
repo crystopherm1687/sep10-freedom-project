@@ -84,6 +84,7 @@ body{
 }
 .back {
     background:blue;
+    color:yellow;
 }
 h2 {
     font-size: 3em;
@@ -93,9 +94,6 @@ h2 {
 }
 .adjust {
     margin-right: 5em;
-}
-.back {
-    color:yellow;
 }
 .back2 {
     color:white;
