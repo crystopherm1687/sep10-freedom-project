@@ -86,11 +86,14 @@ body{
     background:blue;
 }
 h2 {
-    margin-right: 5em;
+    margin: 5em;
     font-size: 3em;
     font-family:Raleway;
     color:white;
     background: red;
+}
+.adjust {
+    margin-right: 5em;
 }
 .back {
     color:yellow;
