@@ -32,8 +32,10 @@
 ---
 
 #### Beyond MVP
-
-* Add more animations.
+* adjust accordion
+* change text color
+* fix images
+* add animation
 
 
 
