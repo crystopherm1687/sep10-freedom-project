@@ -8,7 +8,9 @@ h1 {
     font-family: Raleway;
 }
 .imgform {
-    margin-left:10em;
+    margin-left:15em;
+    padding: 2em;
+    
 }
 .aframebox {
     height: 200px;
