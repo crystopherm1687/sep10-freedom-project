@@ -78,10 +78,11 @@ body{
     background:blue;
 }
 h2 {
-    margin-left: 5em;
-    font-size: 2em;
+    margin-right: 5em;
+    font-size: 3em;
     font-family:Raleway;
     color:white;
+    background: red;
 }
 .back {
     color:yellow;
