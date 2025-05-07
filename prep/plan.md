@@ -14,6 +14,10 @@
 * `#000000`black
 * `#008000`green
 * `#8a00c2`purple
+* `#9b2948` warm
+* `#ff7251` warm
+* `#ffca7b` warm
+* `#ffedbf` warm
 
 ## Fonts
 * [Roboto](https://fonts.google.com/specimen/Roboto)
