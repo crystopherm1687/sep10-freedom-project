@@ -62,7 +62,7 @@ p {
     color: yellow;
 }
 .changeimg {
-    width:800px;
+    width:600px;
     margin-left:5em;
 }
 .img2{
@@ -78,7 +78,7 @@ body{
 }
 .imgcaro {
     object-fit:cover;
-    height:100%;
+    height:400px;
     width:100%;
     aspect-ratio:1/1;
 }
