@@ -10,7 +10,7 @@ h1 {
 .imgform {
     margin-left:15em;
     padding: 2em;
-    
+
 }
 .aframebox {
     height: 200px;
@@ -81,8 +81,8 @@ body{
 .imgcaro {
     object-fit:cover;
     object-fit:contain;
-    height:400px;
-    width:100%;
+    height:50%;
+    width:50%;
     aspect-ratio:1/1;
 }
 .back {
