@@ -42,6 +42,14 @@
 * fix images
 * add animation
 
+---
+
+#### Fixing the MVP
+
+* adjust the accordion and all elements to the right screen sizes.
+* add an animation to make it really flow.
+* change some of the websites colors to warm colors to get that feel.
+* adjust aframe box to get it working properly.
 
 
 
