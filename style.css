@@ -13,6 +13,9 @@ h1 {
     padding: 2em;
 
 }
+.margin {
+margin-right: 4em;
+}
 .aframebox {
     height: 200px;
     width: 400px;
