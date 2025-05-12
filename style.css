@@ -6,6 +6,12 @@ https://fonts.google.com/specimen/Montserrat
 h1 {
     font-size: 4em;
 }
+.stop {
+    width:50%;
+    height:50%;
+    margin: 3em;
+    padding: 4em;
+}
 .see {
     color:white;
 }
