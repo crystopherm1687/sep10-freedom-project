@@ -106,4 +106,49 @@ h2 {
 .back2 {
     color:white;
 }
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+section h2 {
+  color: #333;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.content img {
+  max-width: 45%;
+  height: auto;
+  margin-right: 20px;
+}
+
+.content p {
+  max-width: 50%;
+  color: #555;
+}
+@media (max-width: 768px) {
+  .content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .content img {
+    max-width: 80%;
+    margin-bottom: 20px;
+  }
+
+  .content p {
+    max-width: 80%;
+    text-align: center;
+  }
+}
+
 
