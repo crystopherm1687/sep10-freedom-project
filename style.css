@@ -13,6 +13,8 @@ h1 {
 }
 .more {
 text-align:center;
+    display:block;
+    width:100%;
 }
 .margin {
 margin-right: 10em;
