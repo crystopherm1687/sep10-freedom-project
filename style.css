@@ -165,21 +165,6 @@ section h2 {
   }
 }
 
-.con-block {
-  display: flex;
-  align-items: center; 
-  gap: 20px; 
-  flex-wrap: wrap;
-}
 
-.con-block img {
-  width: 500px;
-  max-width: 100%;
-  height: auto;
-}
-
-.text-block {
-  flex: 1;
-}
 
 
