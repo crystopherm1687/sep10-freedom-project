@@ -6,12 +6,13 @@ https://fonts.google.com/specimen/Montserrat
 h1 {
     font-size: 4em;
     font-family: Raleway;
-    margin-left: 100px;
 }
 .imgform {
     margin-left:15em;
     padding-top:2em;
-
+}
+.more {
+text-align:center;
 }
 .margin {
 margin-right: 10em;
