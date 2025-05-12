@@ -132,22 +132,7 @@ section h2 {
   color: #333;
 }
 
-.content {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
 
-.content img {
-  max-width: 45%;
-  height: auto;
-  margin-right: 20px;
-}
-
-.content p {
-  max-width: 50%;
-  color: #555;
-}
 @media (max-width: 768px) {
   .content {
     flex-direction: column;
