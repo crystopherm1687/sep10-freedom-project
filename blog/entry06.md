@@ -45,13 +45,14 @@ The accordion for my information was very useful in putting together lots of thi
   <div class="tab-pane fade" id="nav-disabled" role="tabpanel" aria-labelledby="nav-disabled-tab" tabindex="0">...</div>
 </div>
 ```
-
+After a long coding session, I usually feel a mix of tired and proud. My brain’s a bit foggy from staring at the screen and thinking through all the little details, but there’s this real sense of accomplishment when things finally come together. Whether it’s fixing a stubborn bug or seeing the design actually work the way I pictured it, it just feels good—like all the frustration was worth it. I might be mentally worn out, but I’m also excited to show what I built, even if it’s just to myself.
 ## EDP
 Going through all the steps of the engineering design process has been hard even as I'm finishing up the website because thinking and revising my work has taken longer than expected to complete because of all the things i have to do for other classes and daily life. Aside from that aspect the end starts with identifying the problem or goal, what the website needs to do and who it's for. From there, I brainstorm and plan features, layouts, and functionality, often sketching wireframes or writing a basic outline. During development, I build a prototype by coding the initial version, testing it as I go, and refining each part based on how well it meets the original goals. Once i feel ready i'm pushing everything and looking for errors that i missed and now I have a mvp that can address my topic without problem.
 ## Sources
 * <a href="https://glitch.com/~aframe">Glitch</a>
 * <a href="https://getbootstrap.com/">Bootstrap website</a>
 * <a href="https://aframe.io/">Aframe website</a>
+* <a href="https://www.youtube.com/@coding2go">coding2go channel</a>
 <!--section-->
 ## Skills
 
