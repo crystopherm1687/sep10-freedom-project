@@ -105,9 +105,10 @@ h2 {
     font-family:Raleway;
     color:white;
 }
-.adjust {
-    margin-right: 200px;
-    padding-bottom:2em;
+.grid-container {
+display:grid;
+    grid-template-colums: 1fr 1fr;
+    gap: 20px;
 }
 .back2 {
     color:white;
