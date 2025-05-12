@@ -6,7 +6,7 @@ https://fonts.google.com/specimen/Montserrat
 h1 {
     font-size: 4em;
     font-family: Raleway;
-    margin-left: 10em;
+    margin-left: 100px;
 }
 .imgform {
     margin-left:15em;
@@ -26,9 +26,6 @@ color:black;
 }
 .button:hover {
 color:white;
-}
-.more {
-    margin-right: 15em;
 }
 .color1{
     color:yellow;
