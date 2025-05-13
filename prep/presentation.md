@@ -1,16 +1,22 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Starting with a fact about volleyball like how popular it is or what it does.
 
 ## Product
-* 
+* As i'm talking i will refer to more than just the website and add on/explain the meaning of some elements and or topic that i made the website about. Using my body language to get an interested audience. More like guiding them through how it actually works.
 
 ## Process
-* 
+* Plan
+ * MVP: display the website as whole. -> introduce aframe code
+ * beyond MVP: explain what went on with the coding process.
 
 ## Conclusion
-* 
+* I will quickly summarize what was said or explain more of the website then say thank you for your time.
+* Show URL
+* Take away's
+ * If something does not work don't be afraid to ask for help. Sometimes a conversation can go a long way.
+ * Plan ahead with your time. Sometimes you have hobbies or events to go to that take time needed to complete assignments. Use your time wisely.
 
 <!-- EXAMPLE
 
