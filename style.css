@@ -4,16 +4,34 @@ https://fonts.google.com/specimen/Raleway
 https://fonts.google.com/specimen/Montserrat
 
 h1 {
-    font-size: clamp(1.8rem, calc(7vw, + 1rem), 5rem);
-    font-family: Raleway;
-    text-alignment:center;
+    font-size: 4em;
+}
+.stop {
+    width:70%;
+    height:70%;
+    margin: 3em;
+    padding: 4em;
+}
+.see {
+    color:white;
+}
+.wow {
+    text-align:center;
 }
 .imgform {
-    margin-left:15em;
-    padding: 2em;
-
+    padding:2em;
+}
+.adjust {
+    margin:2em;
+    }
+.more {
+text-align:center;
+}
+.margin {
+margin-right: 10em;
 }
 .aframebox {
+    padding-top:20em;
     height: 200px;
     width: 400px;
     margin-left: 10em;
@@ -23,9 +41,6 @@ color:black;
 }
 .button:hover {
 color:white;
-}
-.more {
-    margin-right: 15em;
 }
 .color1{
     color:yellow;
@@ -57,7 +72,7 @@ p {
     max-width:100%;
     object-fit:contain;
     background: green;
-    width:500px;
+    width:600px;
 }
 .font {
     font-size: 1.5em;
@@ -85,11 +100,12 @@ body{
 }
 .imgcaro {
     object-fit:cover;
-    object-fit:contain;
-    height:50%;
-    width:50%;
+    height:100%;
+    width:100%;
     aspect-ratio:1/1;
     justify-content: center;
+    margin:2em;
+    padding:2em;
 }
 .back {
     background:#6495ED;
@@ -100,10 +116,36 @@ h2 {
     font-family:Raleway;
     color:white;
 }
-.adjust {
-    margin-right: 5em;
-}
+
 .back2 {
     color:white;
 }
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+section h2 {
+  color: #333;
+}
+
+
+@media (max-width: 768px) {
+  .content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+
+  .content p {
+    max-width: 80%;
+    text-align: center;
+  }
+}
+
+
+
 

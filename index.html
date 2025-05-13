@@ -41,7 +41,7 @@
   </div>
 </nav>
 <!--Website(fix title)-->
-<h1 class="more"><span class="color2">Voll</span><span class="color3">ey</span><span class="color1">ball</span></h1>
+<h1 class="more"><span class="color2">Voll</span><span class="color3 ">ey</span><span class="color1 ">ball</span></h1>
  <nav>
   <div class="nav nav-tabs" id="nav-tab" role="tablist">
     <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true" id="#intro"> Intro</button>
@@ -58,7 +58,12 @@
 <!--2 images-->
 <img  class="img1 changeimg1"src="prep/playing.jpg">
 <img  class="img2 changeimg1"src="prep/playing2.jpg">
-<!--section for part A-->
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6">
+        <h2 class="see">Part A</h2>
+
 <div class="accordion adjust" id="accordionPanelsStayOpenExample #parta">
   <div class="accordion-item">
     <h2 class="accordion-header">
@@ -140,15 +145,19 @@
     <p>Official partner for the Polish Volleyball League and Federation, widely used by universities in the U.S.</p>
     <p>Enables coaches to analyze games in detail and make data-driven decisions for team improvement.</p>
     <a href="https://volleystation.com/">link</a>
-
-      </div>
-    </div>
+         </div>
+            </div>
   </div>
 </div>
-<!--image for part A-->
-<img class="changeimg1 imgform"src="prep/technology.jpg">
+    <div class="col-md-6">
+            <img class="changeimg1 imgform"src="prep/technology.jpg">
+                </div>
+                    </div>
+
+
 
         <!--bottom carusel-->
+        <div class="stop">
 <div id="carouselExampleInterval" class="carousel slide imgcaro" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
@@ -170,26 +179,26 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-<!--section for part B-->
-  <div class="back"><h2 id="#partb">Volleyball <span class="back">holographic</span><span class="back2"> screen</span></h2>
+        </div>
 
-  <p class="different">This technology will have 2 screens. It will have 2 screens. The main screen would show the score, team names, what set it is, and how much time is left before a set ends without taking up any space and placed above the volleyball court. The side screens would be placed on a team’s court where they could see player names and stats like passes, aces, sets, hits and points scored. Getting the ball up when it's low. Making a serve with less than 2 touches. How many times you put the ball up with your hands. How many times you hit the ball and scored. The main screen could include who is serving the ball at that moment.The main screen could also display in or out. Main screen could show who is subbing in or out. The screens could have referee decisions. The holographic screens could record the match and not have any interfering factors. The side screens can also point out any errors in team rotation or how the team could have played a rally if they made mistakes. In-game tracking screen which sees what the player does and relays the action to the audience to show how good it was.</p>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-6">
+        <div>
+         <div class="back adjust"><h2 id="#partb" class="wow">Volleyball <span class="back">holographic</span><span class="back2"> screen</span></h2></div>
+        </div>
+            <div>
+  <p class="different adjust">This technology will have 2 screens. It will have 2 screens. The main screen would show the score, team names, what set it is, and how much time is left before a set ends without taking up any space and placed above the volleyball court. The side screens would be placed on a team’s court where they could see player names and stats like passes, aces, sets, hits and points scored. Getting the ball up when it's low. Making a serve with less than 2 touches. How many times you put the ball up with your hands. How many times you hit the ball and scored. The main screen could include who is serving the ball at that moment.The main screen could also display in or out. Main screen could show who is subbing in or out. The screens could have referee decisions. The holographic screens could record the match and not have any interfering factors. The side screens can also point out any errors in team rotation or how the team could have played a rally if they made mistakes. In-game tracking screen which sees what the player does and relays the action to the audience to show how good it was.</p>
 </div>
-
-
-<!--AFRAME CODE(use embed and adjust the position)Part B-->
-<body>
-
-
- <a-scene class="aframebox"embedded>
-
-            <a-box position="-8 0.5 -3" rotation="0 10 0" height="5.5" color="#00FFFF"></a-box>
+                </div>
+                <div class="col-md-6">
+<a-scene class="aframebox"embedded>
+             <a-box position="-8 0.5 -3" rotation="0 10 0" height="5.5" color="#00FFFF"></a-box>
             <a-box position="8 0.5 -3" rotation="0 10 0" height="5.5" color="#00FFFF"></a-box>
             <a-sphere position="0 0.5 10" radius="0.5" color="#FFFFFF" material="src: #ball2" animation="property: position; to: -3 5 -3; dir: alternate; dur: 1000; loop: true"></a-sphere>></a-sphere>
             <a-light type="ambient" intensity="0.5"></a-light>
             <a-light type="directional" intensity="0.8" position="1 3 1"></a-light>
-
-            <a-assets>
+             <a-assets>
                 <img id="ball2" src="tool/ball2.jpg">
               </a-assets>
             <a-sphere position="3 0.5 10" radius="0.5" color="#FFFFFF" material="src: #ball2" animation="property: position; to: 7 5 -3; dir: alternate; dur: 1000; loop: true"></a-sphere>
@@ -721,7 +730,12 @@
             ></a-plane>
             <a-sky color="#87CEEB"></a-sky>
   </a-scene>
-</body>
+
+     </div>
+        </div>
+        </div>
+
+
 
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
