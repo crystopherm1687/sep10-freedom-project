@@ -105,8 +105,8 @@ body{
     width:100%;
     aspect-ratio:1/1;
     justify-content: center;
-    margin-left:5em;
-    padding-top:2em;
+    margin:2em;
+    padding:2em;
 }
 .back {
     background:#6495ED;
