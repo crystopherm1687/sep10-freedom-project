@@ -8,7 +8,7 @@
 
 ## Process
 * Plan
- * MVP: display the website as whole. -> introduce aframe code
+ * MVP: Elaborate from the slides. -> introduce aframe code
  * beyond MVP: explain what went on with the coding process.
 
 ## Conclusion
