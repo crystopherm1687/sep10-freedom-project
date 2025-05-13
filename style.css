@@ -101,8 +101,8 @@ body{
 .imgcaro {
     object-fit:cover;
     object-fit:contain;
-    height:50%;
-    width:60%;
+    height:100%;
+    width:100%;
     aspect-ratio:1/1;
     justify-content: center;
     margin-left:5em;
