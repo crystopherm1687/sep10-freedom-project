@@ -70,9 +70,10 @@ p {
 .changeimg1 {
     height:auto;
     max-width:100%;
-    object-fit:contain;
+     object-fit:contain;
     background: green;
     width:600px;
+
 }
 .font {
     font-size: 1.5em;
