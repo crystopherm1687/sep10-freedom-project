@@ -20,6 +20,8 @@ h1 {
 }
 .imgform {
     padding:2em;
+    display:grid;
+    justify-items: end;
 }
 .adjust {
     margin:2em;
