@@ -20,8 +20,7 @@ h1 {
 }
 .imgform {
     padding-left:40em;
-    text-align:end;
-    justify-items:right;
+    display:flex;
 }
 .adjust {
     margin:2em;
