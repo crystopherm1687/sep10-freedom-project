@@ -21,8 +21,7 @@ h1 {
 .imgform {
     padding:2em;
     display:grid;
-    justify-items: end;
-    justify-self: right;
+    justify-self: left;
 }
 .adjust {
     margin:2em;
