@@ -8,7 +8,6 @@ h1 {
 }
 #container {
     display:flex;
-    flex-direction:row-reverse;
     height:600px;
     margin-right:50em;
     width:1000px;
@@ -31,7 +30,7 @@ h1 {
 }
 #first {
     padding:2em;
-    align-self:center;
+    align-self: flex-end;
 }
 #adjust {
     margin:2em;
