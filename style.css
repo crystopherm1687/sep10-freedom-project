@@ -6,6 +6,10 @@ https://fonts.google.com/specimen/Montserrat
 h1 {
     font-size: 4em;
 }
+
+#second {
+    padding:1.5em;
+}
 .stop {
     width:70%;
     height:70%;
@@ -18,7 +22,7 @@ h1 {
 .wow {
     text-align:center;
 }
-#imgform {
+#first {
     padding-left:40em;
     display:flex;
 }
