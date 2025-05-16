@@ -9,8 +9,9 @@ h1 {
 #container {
     display:flex;
     flex-direction:row-reverse;
-    height:500px;
+    height:600px;
     margin-right:50em;
+    wdith:1000px;
 
 }
 #second {
