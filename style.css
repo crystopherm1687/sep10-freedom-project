@@ -95,6 +95,10 @@ p {
     width: auto;
     color: yellow;
 }
+.okay {
+    align-self:center;
+    
+}
 .changeimg {
     width:600px;
     margin-left:5em;
