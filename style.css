@@ -6,7 +6,10 @@ https://fonts.google.com/specimen/Montserrat
 h1 {
     font-size: 4em;
 }
-
+#container {
+    display:flex
+    height:50%;
+}
 #second {
     padding:1.5em;
 }
