@@ -32,7 +32,7 @@ h1 {
     padding:2em;
     align-self: flex-end;
 }
-#adjust {
+.adjust {
     margin:2em;
     }
 .more {
@@ -69,7 +69,7 @@ p {
 }
 .different {
     background: #9b2948;
-    font-size:0.7em;
+    font-size:1.3em;
 }
 .section1 {
     Background-color:#0096FF;
@@ -84,7 +84,7 @@ p {
     max-width:100%;
      object-fit:contain;
     background: green;
-    width:500px;
+    width:400px;
 
 }
 .font {
@@ -97,10 +97,8 @@ p {
     color: yellow;
 }
 .okay {
-    align-self:center;
     display:flex;
-    padding-left:20rem;
-    padding-bottom:20rem;
+
 
 }
 .changeimg {
