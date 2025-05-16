@@ -18,7 +18,7 @@ h1 {
 .wow {
     text-align:center;
 }
-.imgform {
+#imgform {
     padding-left:40em;
     display:flex;
 }
