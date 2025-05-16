@@ -69,6 +69,7 @@ p {
 }
 .different {
     background: #9b2948;
+    font-size:3em;
 }
 .section1 {
     Background-color:#0096FF;
@@ -97,7 +98,7 @@ p {
 }
 .okay {
     align-self:center;
-    
+
 }
 .changeimg {
     width:600px;
