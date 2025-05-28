@@ -90,9 +90,10 @@ p {
 .changeimg3 {
     height:auto;
     max-width:100%;
+    width:500px;
      object-fit:contain;
     background: green;
-    margin-left:5em;
+    
 }
 .font {
     font-size: 1.5em;
