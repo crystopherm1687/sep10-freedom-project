@@ -6,7 +6,7 @@ I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering P
 
 For my project, I chose the topic of **Volleyball**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Aframe** in order to help me make my website.
 
 ## Links
 
@@ -16,9 +16,15 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X
 
 ## Implications
 ##### PROS
-* 
+* Will allow current players and non-athletic people to experience volleyball in a different way.
+* Create a more accesible system for everyone
+* People can learn about the benefits of trying new technology in the sport of volleyball.
 ##### CONS
-* 
+* Players may find it annoying that the new technology would interfere with their playstyle as they are being watched in all directions.
+* Information may not be hidden well within these devices or inaccurate for players.
+* Bugs or other types of interference may disable the new technology.
+* There may not be enough software and hardware to handle the new technology in a smooth way.
+* People could be harmed if they interact too much with the device.
 
 
 ## Blog
